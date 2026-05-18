@@ -34,7 +34,7 @@ Analyses included in this repository:
 │   ├── d_encodingdecoding.m       # single-unit GLM, population-level SVM
 │   ├── CeA_DT3_figures.m          # Recreates manuscript figures
 │
-├── supportingprograms/         # Support codes 
+├── supporting programs/         # Support codes 
 └── README.md
 ```
 
