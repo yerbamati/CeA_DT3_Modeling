@@ -24,8 +24,6 @@ Analyses included in this repository:
 ---
 # Structure
 ```text
-├── data/                      # Processed datasets used for analyses
-│
 ├── analysis/                  # Analysis codes 
 │   ├── a_preprocessing.m          # Preprocessing of .NEX files
 │   ├── a_coordinateextraction.m   # Feature-extraction of DLC coordinate data, also compares movement variables on different trials, both point-wise and in discrete windows
@@ -55,8 +53,7 @@ External packages:
 
 # Data availability
 
-Processed datasets necessary to reproduce the main figures are included in:
-```/data```
+Processed datasets necessary to reproduce the main figures can be found at https://gin.g-node.org/yerba.mati/CeA_DT3_Modeling/src/master/data
 
 Raw electrophysiology recordings are available on DANDI: [LINK]
 
