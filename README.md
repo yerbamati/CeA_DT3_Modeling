@@ -7,7 +7,7 @@ Castro et al., 2026 (under review)
 Preprint:
 https://www.biorxiv.org/content/10.64898/2026.05.11.724330v1
 
-This repo contains analysis code for CeA single-unit recordings collected during ethanol self-administration in a discretized task. Analyses include single-unit GLMs, population decoding, behavioral analyses, and figure generation.
+This repository contains analysis code for CeA single-unit recordings collected during ethanol self-administration in a discretized task. Analyses include single-unit GLMs, population decoding, behavioral analyses, and figure generation.
 
 Tested in MATLAB R2024b.
 
