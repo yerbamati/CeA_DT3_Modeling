@@ -59,7 +59,7 @@ Some quick notes on the main scripts:
 Processed datasets used for the paper can be found here:
 https://gin.g-node.org/yerba.mati/CeA_DT3_Modeling/src/master/data
 
-Raw electrophysiology recordings will also be available on DANDI.
+Raw electrophysiology recordings are available upon request.
 
 ## Running analyses
 
