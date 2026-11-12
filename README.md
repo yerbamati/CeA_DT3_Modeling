@@ -22,7 +22,7 @@ External packages:
 - DeepLabCut (Mathis et al. 2018)
 
 # Structure
-```text
+<pre>
 ├── analysis/                  # Analysis codes 
 │   ├── a_preprocessing.m          # Preprocessing of .NEX files
 │   ├── a_coordinateextraction.m   # Feature-extraction of DLC coordinate data, also movement comparisons
@@ -42,7 +42,7 @@ External packages:
 │
 ├── supporting programs/         # Support codes 
 └── README.md
-```
+</pre>
 Some quick notes on the main scripts:
 
 - `a_preprocessing.m`
