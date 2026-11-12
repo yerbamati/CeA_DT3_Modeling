@@ -30,15 +30,7 @@ External packages:
 │   ├── c_GroupLevelAnalysis.m     # Comparisons of behavioral data, within and across groups
 │   ├── d_encodingdecoding.m       # single-unit GLM, population-level SVM
 │   ├── CeA_DT3_figures.m          # Recreates manuscript figures
-│   ├── multiseed_decoding.m       # To address the first round of reviewer comments, we implemented changes to the code that made it clear
-                                   that the interaction between Group x Time for the comparisons between SVM accuracy in the model with and
-                                   without movement-modulated neurons was unstable. As such, we implemented 2 additional controls, namely
-                                   an SVM where movement-modulated and not-movement-modulated were selectively depleted to size-matched groups,
-                                   and an SVM where, across groups, the population of not-movement-modulated neurons were size matched across
-                                   groups (see <i>Classifier Analysis</i> in the <b>Methods</b> section). We also implemented a reproducible, multi-seed
-                                   approach, such that we created a population of statistical results for the ANOVA comparisons, to determine
-                                   the stability of the comparison between the groups at the different time points. Code for creation of
-                                   Figures 5D-G and Figure 6E is in this script.
+│   ├── multiseed_decoding.m       # New decoder script, implemented to address reviewer comments.
 │
 ├── supporting programs/         # Support codes 
 └── README.md
