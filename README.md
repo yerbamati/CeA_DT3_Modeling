@@ -140,7 +140,7 @@ GLMs were fit neuron-by-neuron using Poisson regression with ridge regularizatio
 ### 6. Population decoding
 
 ```matlab
-run('analysis/d_encodingdecoding.m % Pointwise GIANT RAT SVM (DECODER)')
+run('analysis/multiseed_decoding.m % Pointwise GIANT RAT SVM (DECODER)')
 ```
 
 creates:
@@ -148,7 +148,7 @@ creates:
 *GroupName*_SVM.mat
 ```
 
-Decoder analyses can also be rerun after excluding specific neuron populations.
+Decoder analyses was also rerun after excluding specific neuron populations.
 
 ### 7. Figures
 
